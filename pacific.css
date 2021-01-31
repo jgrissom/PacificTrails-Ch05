@@ -13,7 +13,10 @@ header {
   text-indent: 1em;
 }
 h1 { margin-bottom: 0; }
-nav { background-color: #BBDEFB; }
+nav { 
+  background-color: #BBDEFB; 
+  font-weight: bold;
+}
 h2 { color: #1976D2; }
 dt { color: #002171; }
 .resort { color: #1976D2; }
