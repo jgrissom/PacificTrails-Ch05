@@ -6,6 +6,11 @@ body {
 header { 
   background-color: #002171; 
   color: #FFFFFF; 
+  background-image: url(sunset.jpg);
+  background-position: right;
+  background-repeat: no-repeat;
+  line-height: 400%;
+  text-indent: 1em;
 }
 h1 { margin-bottom: 0; }
 nav { background-color: #BBDEFB; }
