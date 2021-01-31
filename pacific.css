@@ -25,5 +25,9 @@ h2 {
   color: #1976D2; 
   font-family: Georgia, "Times New Roman", serif;
 }
+h3 { 
+  color : #000033; 
+  font-family: Georgia, "Times New Roman", serif; 
+}
 dt { color: #002171; }
 .resort { color: #1976D2; }
