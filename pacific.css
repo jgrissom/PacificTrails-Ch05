@@ -21,6 +21,9 @@ nav {
   font-weight: bold;
 }
 nav a { text-decoration: none; }
-h2 { color: #1976D2; }
+h2 { 
+  color: #1976D2; 
+  font-family: Georgia, "Times New Roman", serif;
+}
 dt { color: #002171; }
 .resort { color: #1976D2; }
