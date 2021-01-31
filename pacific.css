@@ -12,7 +12,10 @@ header {
   line-height: 400%;
   text-indent: 1em;
 }
-h1 { margin-bottom: 0; }
+h1 { 
+  margin-bottom: 0; 
+  font-family: Georgia, "Times New Roman", serif;
+}
 nav { 
   background-color: #BBDEFB; 
   font-weight: bold;
